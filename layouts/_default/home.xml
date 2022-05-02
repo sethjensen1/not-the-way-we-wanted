@@ -18,7 +18,7 @@
       <itunes:name>James Allen</itunes:name>
       <itunes:email>notthewaywewanted@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ .Site.BaseURL }}nw3.png" />
+    <itunes:image href="{{ .Site.BaseURL }}nw3.jpg" />
     <itunes:category text="Comedy">
       <itunes:category text="Improv"/>
     </itunes:category>
@@ -30,9 +30,9 @@
     </itunes:category>
     <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="{{ .Site.BaseURL }}nw3.png"/>
+    <itunes:image href="{{ .Site.BaseURL }}nw3.jpg"/>
     <image>
-      <url>{{ .Site.BaseURL }}nw3.png</url>
+      <url>{{ .Site.BaseURL }}nw3.jpg</url>
       <link>{{ .Site.BaseURL }}</link>
       <title>Not The Way We Wanted</title>
     </image>
@@ -56,7 +56,7 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
       <itunes:duration>{{ .Params.duration }}</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="{{ .Site.BaseURL }}nw3.png"/>
+      <itunes:image href="{{ .Site.BaseURL }}nw3.jpg"/>
     </item>
     {{ end }}{{ end }}
   </channel>
