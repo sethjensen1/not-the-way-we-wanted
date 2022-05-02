@@ -16,7 +16,7 @@
       <itunes:name>James Allen</itunes:name>
       <itunes:email>james@brogus.org</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg" />
+    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png" />
     <itunes:category text="Comedy">
       <itunes:category text="Improv"/>
     </itunes:category>
@@ -28,9 +28,9 @@
     </itunes:category>
     <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
+    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
     <image>
-      <url>http://brogus.org/not-the-way-we-wanted/nw3.jpg</url>
+      <url>http://brogus.org/not-the-way-we-wanted/nw3.png</url>
       <link>http://brogus.org/not-the-way-we-wanted/</link>
       <title>Not The Way We Wanted</title>
     </image>
@@ -39,10 +39,19 @@
       <title>Middle School RPG: Aetheteria Part 1 | NTWW 1</title>
       <itunes:title>Middle School RPG: Aetheteria Part 1 | NTWW 1</itunes:title>
       <itunes:author>James Allen and Seth Jensen</itunes:author>
-      <description><![CDATA[<p></p>]]>
+      <description><![CDATA[<p><p>Boys in middle school
+We get off topic to much
+GAP spring fedora</p>
+</p>]]>
       </description>
-      <itunes:summary>&lt;![CDATA[]></itunes:summary>
-      <content:encoded><![CDATA[<p></p>]]>
+      <itunes:summary>&lt;![CDATA[<p>Boys in middle school
+We get off topic to much
+GAP spring fedora</p>
+]></itunes:summary>
+      <content:encoded><![CDATA[<p><p>Boys in middle school
+We get off topic to much
+GAP spring fedora</p>
+</p>]]>
       </content:encoded>
       <enclosure url="ep1.mp3" length="" type="audio/x-m4a" />
       <guid>http://brogus.org/not-the-way-we-wanted/ep1.mp3</guid>
@@ -50,7 +59,7 @@
       <pubDate>Mon, 02 May 2022 00:00:00 +0000 </pubDate>
       <itunes:duration>25:00</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
+      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
     </item>
      
   </channel>
