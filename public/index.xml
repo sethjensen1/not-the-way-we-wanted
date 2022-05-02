@@ -6,7 +6,7 @@
     <language>en-us</language>
     <description><![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>
     </description>
-    <managingEditor>james@brogus.org</managingEditor>
+    <managingEditor>notthewaywewanted@gmail.com</managingEditor>
     <copyright>Copyright 2022 James Allen</copyright>
     <itunes:subtitle>An RPG podcast</itunes:subtitle>
     <itunes:author>James Allen and Seth Jensen</itunes:author>
@@ -14,7 +14,7 @@
     </itunes:summary> 
     <itunes:owner>
       <itunes:name>James Allen</itunes:name>
-      <itunes:email>james@brogus.org</itunes:email>
+      <itunes:email>notthewaywewanted@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png" />
     <itunes:category text="Comedy">

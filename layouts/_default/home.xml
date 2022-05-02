@@ -7,7 +7,7 @@
     <description>
       {{- printf "<![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>" | safeHTML }}
     </description>
-    <managingEditor>james@brogus.org</managingEditor>
+    <managingEditor>notthewaywewanted@gmail.com</managingEditor>
     <copyright>Copyright 2022 James Allen</copyright>
     <itunes:subtitle>An RPG podcast</itunes:subtitle>
     <itunes:author>James Allen and Seth Jensen</itunes:author>
@@ -16,7 +16,7 @@
     </itunes:summary> 
     <itunes:owner>
       <itunes:name>James Allen</itunes:name>
-      <itunes:email>james@brogus.org</itunes:email>
+      <itunes:email>notthewaywewanted@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ .Site.BaseURL }}nw3.png" />
     <itunes:category text="Comedy">
