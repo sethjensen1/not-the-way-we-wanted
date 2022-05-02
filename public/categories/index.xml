@@ -1,0 +1,42 @@
+&lt;?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/" version="2.0">
+  <channel>
+    <title>Not the Way We Wanted</title>
+    <link>http://brogus.org/categories/</link>
+    <link>http://brogus.org/index.xml</link>
+    <language>en-us</language>
+    <description>
+      &lt;![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>
+    </description>
+    <managingEditor>james@brogus.org</managingEditor>
+    <copyright>Copyright 2022 James Allen</copyright>
+    <itunes:subtitle>An RPG podcast</itunes:subtitle>
+    <itunes:author>James Allen and Seth Jensen</itunes:author>
+    <itunes:summary>
+      &lt;![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>
+    </itunes:summary> 
+    <itunes:owner>
+      <itunes:name>James Allen</itunes:name>
+      <itunes:email>james@brogus.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://brogus.org/nw3.jpg" />
+    <itunes:category text="Comedy">
+      <itunes:category text="Improv"/>
+    </itunes:category>
+    <itunes:category text="Leisure">
+      <itunes:category text="Games"/>
+    </itunes:category>
+    <itunes:category text="Fiction">
+      <itunes:category text="Comedy Fiction"/>
+    </itunes:category>
+    <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://brogus.org/nw3.jpg"/>
+    <image>
+      <url>http://brogus.org/nw3.jpg</url>
+      <link>http://brogus.org/</link>
+      <title>Not The Way We Wanted</title>
+    </image>
+    
+  </channel>
+</rss>
