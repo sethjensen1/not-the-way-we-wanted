@@ -16,7 +16,7 @@
       <itunes:name>James Allen</itunes:name>
       <itunes:email>notthewaywewanted@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png" />
+    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg" />
     <itunes:category text="Comedy">
       <itunes:category text="Improv"/>
     </itunes:category>
@@ -28,9 +28,9 @@
     </itunes:category>
     <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     <image>
-      <url>http://brogus.org/not-the-way-we-wanted/nw3.png</url>
+      <url>http://brogus.org/not-the-way-we-wanted/nw3.jpg</url>
       <link>http://brogus.org/not-the-way-we-wanted/</link>
       <title>Not The Way We Wanted</title>
     </image>
@@ -60,7 +60,7 @@ fall might kill us all</p>
       <pubDate>Sun, 01 May 2022 21:33:24 -0600 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
     <item>
@@ -88,7 +88,7 @@ but finds the spring blues</p>
       <pubDate>Sun, 01 May 2022 21:33:23 -0600 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
     <item>
@@ -116,7 +116,7 @@ GAP spring fedora</p>
       <pubDate>Sun, 01 May 2022 21:33:22 -0600 </pubDate>
       <itunes:duration>25:00</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
   </channel>
