@@ -8,6 +8,6 @@ duration: "25:00"
 type: episode
 ---
 
-Boys in middle school
-We get off topic to much
+Boys in middle school  
+We get off topic to much  
 GAP spring fedora

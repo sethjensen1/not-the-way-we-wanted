@@ -42,11 +42,13 @@
       <itunes:title>{{ title .Title }} | NTWW {{ .Params.episode }}</itunes:title>
       <itunes:author>James Allen and Seth Jensen</itunes:author>
       <description>
-        {{- printf "<![CDATA[<p>" | safeHTML }}{{- .Content -}}{{- printf "</p>]]>" | safeHTML }}
+        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "]]>" | safeHTML }}
       </description>
-      <itunes:summary><![CDATA[{{- .Content -}}]></itunes:summary>
+      <itunes:summary>
+        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "]]>" | safeHTML }}
+      </itunes:summary>
       <content:encoded>
-        {{- printf "<![CDATA[<p>" | safeHTML }}{{- .Content -}}{{- printf "</p>]]>" | safeHTML }}
+        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "]]>" | safeHTML }}
       </content:encoded>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
       <guid>{{ .Site.BaseURL }}{{ .Params.podcast }}</guid>
