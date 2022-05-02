@@ -38,7 +38,7 @@
     </image>
     {{ range .Site.Pages }} {{ if eq .Params.type "episode"}}
     <item>
-      <title>{{ title .Title }} | NTWW {{ .Params.episode }}</title>
+      <title>{{ title .Title }}</title>
       <itunes:title>{{ title .Title }} | NTWW {{ .Params.episode }}</itunes:title>
       <itunes:author>James Allen and Seth Jensen</itunes:author>
       <description>
