@@ -9,5 +9,5 @@ type: episode
 ---
 
 Boys in middle school  
-We get off topic to much  
+We get off topic too much  
 GAP spring fedora

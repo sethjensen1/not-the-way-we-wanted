@@ -5,14 +5,14 @@
     <link>{{ .Site.BaseURL }}index.xml</link>
     <language>en-us</language>
     <description>
-      {{- printf "<![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>" | safeHTML }}
+      {{- printf "<![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want.</p>]]>" | safeHTML }}
     </description>
     <managingEditor>notthewaywewanted@gmail.com</managingEditor>
     <copyright>Copyright 2022 James Allen</copyright>
     <itunes:subtitle>An RPG podcast</itunes:subtitle>
     <itunes:author>James Allen and Seth Jensen</itunes:author>
     <itunes:summary>
-      {{- printf "<![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>" | safeHTML }}
+      {{- printf "<![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want.</p>]]>" | safeHTML }}
     </itunes:summary> 
     <itunes:owner>
       <itunes:name>James Allen</itunes:name>
@@ -42,13 +42,13 @@
       <itunes:title>{{ title .Title }} | NTWW {{ .Params.episode }}</itunes:title>
       <itunes:author>James Allen and Seth Jensen</itunes:author>
       <description>
-        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "]]>" | safeHTML }}
+        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "<p>Art by Owen Skinner<br>Music by Andrew Simmons</p>" | safeHTML -}}{{- printf "]]>" | safeHTML }}
       </description>
       <itunes:summary>
-        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "]]>" | safeHTML }}
+        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "<p>Art by Owen Skinner<br>Music by Andrew Simmons</p>" | safeHTML -}}{{- printf "]]>" | safeHTML }}
       </itunes:summary>
       <content:encoded>
-        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "]]>" | safeHTML }}
+        {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "<p>Art by Owen Skinner<br>Music by Andrew Simmons</p>" | safeHTML -}}{{- printf "]]>" | safeHTML }}
       </content:encoded>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
       <guid>{{ .Site.BaseURL }}{{ .Params.podcast }}</guid>
