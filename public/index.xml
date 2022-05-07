@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/" version="2.0">
   <channel>
     <title>Not the Way We Wanted</title>
-    <link>http://brogus.org/not-the-way-we-wanted/index.xml</link>
+    <link>https://brogus.org/not-the-way-we-wanted/index.xml</link>
     <language>en-us</language>
     <description><![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>
     </description>
@@ -16,7 +16,7 @@
       <itunes:name>James Allen</itunes:name>
       <itunes:email>notthewaywewanted@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg" />
+    <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg" />
     <itunes:category text="Comedy">
       <itunes:category text="Improv"/>
     </itunes:category>
@@ -28,10 +28,10 @@
     </itunes:category>
     <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
+    <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     <image>
-      <url>http://brogus.org/not-the-way-we-wanted/nw3.jpg</url>
-      <link>http://brogus.org/not-the-way-we-wanted/</link>
+      <url>https://brogus.org/not-the-way-we-wanted/nw3.jpg</url>
+      <link>https://brogus.org/not-the-way-we-wanted/</link>
       <title>Not The Way We Wanted</title>
     </image>
      
@@ -55,12 +55,12 @@ but finds the spring blues</p>
 ]]>
       </content:encoded>
       <enclosure url="ep2.mp3" length="84852105" type="audio/x-m4a" />
-      <guid>http://brogus.org/not-the-way-we-wanted/ep2.mp3</guid>
-      <link>http://brogus.org/not-the-way-we-wanted/ep2.mp3</link>
+      <guid>https://brogus.org/not-the-way-we-wanted/ep2.mp3</guid>
+      <link>https://brogus.org/not-the-way-we-wanted/ep2.mp3</link>
       <pubDate>Mon, 02 May 2022 20:33:23 -0600 </pubDate>
       <itunes:duration>50:30</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
+      <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
     <item>
@@ -83,12 +83,12 @@ GAP spring fedora</p>
 ]]>
       </content:encoded>
       <enclosure url="ep1.mp3" length="43425581" type="audio/x-m4a" />
-      <guid>http://brogus.org/not-the-way-we-wanted/ep1.mp3</guid>
-      <link>http://brogus.org/not-the-way-we-wanted/ep1.mp3</link>
+      <guid>https://brogus.org/not-the-way-we-wanted/ep1.mp3</guid>
+      <link>https://brogus.org/not-the-way-we-wanted/ep1.mp3</link>
       <pubDate>Sun, 01 May 2022 21:33:22 -0600 </pubDate>
       <itunes:duration>25:00</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
+      <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
   </channel>
