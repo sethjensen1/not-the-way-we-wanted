@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/" version="2.0">
   <channel>
     <title>Not the Way We Wanted</title>
-    <link>{{ .Site.BaseURL }}index.xml</link>
+    <link>https://brogus.org</link>
     <language>en-us</language>
     <description>
       {{- printf "<![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want</p>]]>" | safeHTML }}
@@ -52,7 +52,7 @@
       </content:encoded>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
       <guid>{{ .Site.BaseURL }}{{ .Params.podcast }}</guid>
-      <link>{{ .Site.BaseURL }}{{ .Params.podcast }}</link>
+      <link>https://brogus.org</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
       <itunes:duration>{{ .Params.duration }}</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
