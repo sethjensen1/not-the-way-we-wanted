@@ -50,7 +50,7 @@
       <content:encoded>
         {{- printf "<![CDATA[" | safeHTML }}{{- .Content -}}{{- printf "]]>" | safeHTML }}
       </content:encoded>
-      <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
+      <enclosure url="{{ .Site.BaseURL }}{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
       <guid>{{ .Site.BaseURL }}{{ .Params.podcast }}</guid>
       <link>https://brogus.org</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
