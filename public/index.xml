@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/" version="2.0">
   <channel>
     <title>Not the Way We Wanted</title>
-    <link>http://brogus.org/not-the-way-we-wanted/index.xml</link>
+    <link>https://brogus.org</link>
     <language>en-us</language>
     <description><![CDATA[<p>Not the Way We Wanted is an RPG podcast where we make and play RPGs, and it doesn't go the way we want.</p>]]>
     </description>
@@ -16,7 +16,7 @@
       <itunes:name>James Allen</itunes:name>
       <itunes:email>notthewaywewanted@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png" />
+    <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg" />
     <itunes:category text="Comedy">
       <itunes:category text="Improv"/>
     </itunes:category>
@@ -28,16 +28,16 @@
     </itunes:category>
     <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+    <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     <image>
-      <url>http://brogus.org/not-the-way-we-wanted/nw3.png</url>
-      <link>http://brogus.org/not-the-way-we-wanted/</link>
+      <url>https://brogus.org/not-the-way-we-wanted/nw3.jpg</url>
+      <link>https://brogus.org/not-the-way-we-wanted/</link>
       <title>Not The Way We Wanted</title>
     </image>
      
     <item>
       <title>Feudal Simulator Part 1</title>
-      <itunes:title>Feudal Simulator Part 1 | NTWW 3</itunes:title>
+      <itunes:title>Feudal Simulator Part 1 | NW3 3</itunes:title>
       <itunes:author>James Allen and Seth Jensen</itunes:author>
       <description><![CDATA[<p>Real life is too tough<br>
 So the boys go medieval<br>
@@ -54,18 +54,18 @@ So the boys go medieval<br>
 fall might kill us all</p>
 <p>Art by Owen Skinner<br>Music by Andrew Simmons</p>]]>
       </content:encoded>
-      <enclosure url="ep3.mp3" length="" type="audio/x-m4a" />
-      <guid>http://brogus.org/not-the-way-we-wanted/ep3.mp3</guid>
-      <link>http://brogus.org/not-the-way-we-wanted/ep3.mp3</link>
-      <pubDate>Sun, 01 May 2022 21:33:24 -0600 </pubDate>
-      <itunes:duration></itunes:duration>
+      <enclosure url="https://brogus.org/not-the-way-we-wanted/ep3.mp3" length="34832303" type="audio/x-m4a" />
+      <guid>https://brogus.org/not-the-way-we-wanted/ep3.mp3</guid>
+      <link>https://brogus.org</link>
+      <pubDate>Sat, 28 May 2022 16:00:00 -0600 </pubDate>
+      <itunes:duration>28:36</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+      <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
     <item>
       <title>Middle School RPG: Aetheteria Part 2</title>
-      <itunes:title>Middle School RPG: Aetheteria Part 2 | NTWW 2</itunes:title>
+      <itunes:title>Middle School RPG: Aetheteria Part 2 | NW3 2</itunes:title>
       <itunes:author>James Allen and Seth Jensen</itunes:author>
       <description><![CDATA[<p>back in middle school<br>
 your boy&rsquo;s looking for some puffs<br>
@@ -82,18 +82,18 @@ your boy&rsquo;s looking for some puffs<br>
 but finds the spring blues</p>
 <p>Art by Owen Skinner<br>Music by Andrew Simmons</p>]]>
       </content:encoded>
-      <enclosure url="ep2.mp3" length="" type="audio/x-m4a" />
-      <guid>http://brogus.org/not-the-way-we-wanted/ep2.mp3</guid>
-      <link>http://brogus.org/not-the-way-we-wanted/ep2.mp3</link>
-      <pubDate>Sun, 01 May 2022 21:33:23 -0600 </pubDate>
-      <itunes:duration></itunes:duration>
+      <enclosure url="https://brogus.org/not-the-way-we-wanted/ep2.mp3" length="84852105" type="audio/x-m4a" />
+      <guid>https://brogus.org/not-the-way-we-wanted/ep2.mp3</guid>
+      <link>https://brogus.org</link>
+      <pubDate>Mon, 02 May 2022 20:33:23 -0600 </pubDate>
+      <itunes:duration>50:30</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+      <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
     <item>
       <title>Middle School RPG: Aetheteria Part 1</title>
-      <itunes:title>Middle School RPG: Aetheteria Part 1 | NTWW 1</itunes:title>
+      <itunes:title>Middle School RPG: Aetheteria Part 1 | NW3 1</itunes:title>
       <itunes:author>James Allen and Seth Jensen</itunes:author>
       <description><![CDATA[<p>Boys in middle school<br>
 We get off topic too much<br>
@@ -110,13 +110,13 @@ We get off topic too much<br>
 GAP spring fedora</p>
 <p>Art by Owen Skinner<br>Music by Andrew Simmons</p>]]>
       </content:encoded>
-      <enclosure url="ep1.mp3" length="" type="audio/x-m4a" />
-      <guid>http://brogus.org/not-the-way-we-wanted/ep1.mp3</guid>
-      <link>http://brogus.org/not-the-way-we-wanted/ep1.mp3</link>
+      <enclosure url="https://brogus.org/not-the-way-we-wanted/ep1.mp3" length="43425581" type="audio/x-m4a" />
+      <guid>https://brogus.org/not-the-way-we-wanted/ep1.mp3</guid>
+      <link>https://brogus.org</link>
       <pubDate>Sun, 01 May 2022 21:33:22 -0600 </pubDate>
       <itunes:duration>25:00</itunes:duration>
       <itunes:keywords>Role Playing,RPG,Board Games</itunes:keywords>
-      <itunes:image href="http://brogus.org/not-the-way-we-wanted/nw3.png"/>
+      <itunes:image href="https://brogus.org/not-the-way-we-wanted/nw3.jpg"/>
     </item>
      
   </channel>
