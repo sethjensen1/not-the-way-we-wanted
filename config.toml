@@ -2,3 +2,5 @@ baseURL = "https://brogus.org/not-the-way-we-wanted/"
 languageCode = "en-us"
 title = "Not The Way We Wanted"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+[markup.goldmark.renderer]
+unsafe = true
